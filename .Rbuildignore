@@ -1,0 +1,10 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README\.md$
+^LICENSE\.md$
+^analysis$
+^data$
+^outputs$
+^figures$
+^hipercow$
+^\.github$

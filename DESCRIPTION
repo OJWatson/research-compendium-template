@@ -1,0 +1,14 @@
+Package: compendium
+Title: Research Compendium for My Project
+Version: 0.1.0
+Authors@R:
+    person("First", "Last", email = "first.last@imperial.ac.uk", role = c("aut", "cre"))
+Description: Code and data for my project. This is not a package to install,
+    the DESCRIPTION just lists the packages the analysis needs.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports:
+    ggplot2,
+    here
+Suggests:
+    devtools

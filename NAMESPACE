@@ -1,0 +1,2 @@
+# Makes every function in R/ available after devtools::load_all()
+exportPattern("^[^\\.]")

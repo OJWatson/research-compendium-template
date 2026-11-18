@@ -1,0 +1,19 @@
+# R and RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+*.Rcheck/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model outputs - these can be big, so they stay on your computer, not GitHub.
+# Rerun the analysis scripts to recreate them.
+outputs/*
+!outputs/.gitkeep
+
+# hipercow's working files (if you use the cluster)
+hipercow/
